@@ -1,4 +1,4 @@
-# Faunus 1
+# Faunus-1
 
 Follow these intructions to the letter to assemble the Faunus 1 Headphones. Every Step of this process will change the way the headphones sound and missing any of these steps will result in a headphone that does not sound like the intended product. This means it will likely sound worse.
 
