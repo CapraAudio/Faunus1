@@ -5,11 +5,11 @@ Follow these intructions to the letter to assemble the Faunus 1 Headphones. Ever
 **You can buy the files on
 [Etsy]() or [Cults3D]()
 
-## [Bill of Materials]()
+## [Bill of Materials](https://github.com/CapraAudio/Faunus1/blob/main/Bill-of-Materials.md)
 
-## [Printing Instructions]()
+## [Printing Instructions](https://github.com/CapraAudio/Faunus1/blob/main/Printing-Instructions.md)
 
-## [Assembly Instructions]()
+## [Assembly Instructions](https://github.com/CapraAudio/Faunus1/blob/main/Assembly-Instructions.md)
 
 ## [Support Discord](https://discord.gg/fb4HdDvErF)
 
