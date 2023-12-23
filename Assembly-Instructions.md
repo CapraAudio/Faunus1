@@ -6,6 +6,7 @@ It is very important to follow all of these steps to the letter, devating from a
 
 
 ## Soldering
+
 - If you ordered the presoldered wires you are good to go but if not at this time solder the positive and negative wires to the mmcx connectors.
 ![20231222_154108](https://github.com/CapraAudio/Faunus1/assets/122894651/bfe5b129-ba73-4cb1-a7b5-aef27a310bc9)
 
@@ -15,10 +16,10 @@ It is very important to follow all of these steps to the letter, devating from a
 - Once the glue dries solder the Speaker to the positive and negative wires.
 ![20231222_154622](https://github.com/CapraAudio/Faunus1/assets/122894651/5a0bc5ae-12ee-4f1f-94ba-18f4583cb213)
 
-- Press the speaker into the housing. It is a very tight fit.
+- Press the speaker into the housing. Put some strength into it as it's a very tight fit.
 ![20231222_154641](https://github.com/CapraAudio/Faunus1/assets/122894651/00d822b3-c151-4917-b1ae-e9fd45fad1c5)
 
--Press the Grille into the housing. It is a very tight fit.
+-Press the Grille into the housing, this will also require a bit of force.
 ![20231222_154656](https://github.com/CapraAudio/Faunus1/assets/122894651/8f109ef6-8e7a-48d3-98af-78e67490eff3)
 
 You can place it against the table and push down to make sure everything is fully seated.
@@ -37,4 +38,4 @@ You can place it against the table and push down to make sure everything is full
 ![20231222_155021](https://github.com/CapraAudio/Faunus1/assets/122894651/7595b86e-82a2-499f-a45a-483599e13aec)
 ![20231222_155059](https://github.com/CapraAudio/Faunus1/assets/122894651/643defe7-311c-49d1-af6f-900c6876bd98)
 
--At this point you can attach it to the headband. put the pads on it, plug in your MMCX cable and start enjoying HiRes audio!
+At this point Faunus-1 is effectively complete, and you can attach it to the headband, put the pads on it, plug in your MMCX cable and enjoy!
