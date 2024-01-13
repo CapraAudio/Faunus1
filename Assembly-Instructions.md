@@ -13,6 +13,9 @@ It is very important to follow all of these steps to the letter, devating from a
 - Feed the Wires and connector through the connector hole at the bottom of the housing. Glue in place.
 ![20231217_180457](https://github.com/CapraAudio/Faunus1/assets/122894651/f2ab2118-4f24-4f19-9a3b-740f665627d1)
 
+- Cut and remove the paper from behind the holes as shown in the below photo.
+![20240112_160052](https://github.com/CapraAudio/Faunus1/assets/122894651/f7452e95-98e2-434e-9d55-ed718f076c3e)
+
 - Once the glue dries solder the Speaker to the positive and negative wires.
 ![20231222_154622](https://github.com/CapraAudio/Faunus1/assets/122894651/5a0bc5ae-12ee-4f1f-94ba-18f4583cb213)
 
