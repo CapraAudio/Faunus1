@@ -20,8 +20,8 @@ Discord: https://discord.gg/fb4HdDvErF
 
 ### Intended Frequency Response
 
-![Thumbnail](https://github.com/CapraAudio/Faunus1/blob/main/Faunus-1%20Frequency%20Response.png)
-[Squig.Link](https://capraaudio.squig.link/Headphones/?share=Diffuse_Field_Target,Faunus_1)
+![Faunus-1 Frequency Response](https://github.com/CapraAudio/Faunus1/assets/122894651/0ba84212-3abd-4d33-93d1-07783b845aa3)
+[Squig.Link](https://capraaudio.squig.link/Headphones/?share=Diffuse_Field_Target,Faunus_1.1)
 
 Measurement Rig:
 - [Custom Stand](https://www.printables.com/model/506860-iec711-stand)
